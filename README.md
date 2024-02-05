@@ -17,7 +17,7 @@ Various Python projects that demonstrate different skills.
 These projects are under the MIT license:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Please refer to license in the repo.
+Please refer to the license in the repo.
 
 ## Contributors
 
