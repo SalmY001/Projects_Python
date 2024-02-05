@@ -21,7 +21,7 @@ Please refer to the license in the repo.
 
 ## Contributors
 
-Sources viewed in the development of the applications:
+Sources viewed whilst developing the applications:
 - freeCodeCamp
 - YouTube
 - Earth Lab, https://www.earthdatascience.org/
