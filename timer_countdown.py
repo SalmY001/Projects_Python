@@ -1,3 +1,5 @@
+# Idea generated from freeCodeCamp www.freecodecamp.org
+
 from time import sleep
 
 try:
