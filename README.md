@@ -24,5 +24,4 @@ Please refer to license in the repo.
 Sources viewed in the development of the applications:
 
 freeCodeCamp
-
 YouTube
