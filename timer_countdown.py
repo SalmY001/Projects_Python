@@ -1,4 +1,4 @@
-# Idea generated from freeCodeCamp www.freecodecamp.org
+# Idea used from freeCodeCamp, https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python
 
 from time import sleep
 
