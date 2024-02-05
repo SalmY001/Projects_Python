@@ -24,3 +24,4 @@ Please refer to the license in the repo.
 Sources viewed in the development of the applications:
 - freeCodeCamp
 - YouTube
+- Earth Lab, https://www.earthdatascience.org/
