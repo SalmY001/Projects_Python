@@ -25,3 +25,4 @@ Sources viewed whilst developing the applications:
 - freeCodeCamp
 - YouTube
 - Earth Lab, https://www.earthdatascience.org/
+- Python All-in-One for Dummies Book, 2019
